@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <img src="src/photo1.jpeg" style="border-radius: 50%;"/>
+  <h1 text-align="center">Hi! 🙋‍♂️ My name is Ritchie</h1>
+</div>
+
+
+## **I have a bachelor of Science Degree in Digital Systems and Robotics from Tecnológico de Monterrey Campus Puebla** 🤖
+
+## I am a Full Stack Web Developer MERN with over 2 years of experience in TypeScript, Python and NodeJS
 
 <!--
 **RickardGS4991/RickardGS4991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
