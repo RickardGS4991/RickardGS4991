@@ -10,7 +10,12 @@
 </div>
 
 ### I have experience working with the following programming languages: ✍️
-
+<div align="center">
+  <img src="src/ts.png" width="100" height="50" alt="TypeScript">
+  <img src="src/python.png" width="50" height="50" alt="Python">
+  <img src="src/c.png" width="50" height="50" alt="C-Language">
+  <img src="src/swift-og.png" width="50" height="50" alt="Swift">
+</div>
 
 ### Strong Knowledge in: 📖
 - Git 
