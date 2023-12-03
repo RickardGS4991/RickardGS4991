@@ -3,7 +3,11 @@
   <h1 text-align="center">Hi! 🙋‍♂️ My name is Ritchie</h1>
 </div>
 
-## I have a bachelor of Science Degree in Digital Systems and Robotics from Tecnológico de Monterrey Campus Puebla 🤖. I am a Full Stack Web Developer MERN with over 2 years of experience in TypeScript, Python and NodeJS 👨🏻‍💻
+## I have a bachelor of Science Degree in Digital Systems and Robotics from Tecnológico de Monterrey Campus Puebla 🤖. I am a Full Stack Web Developer MERN with over 2 years of experience 👨🏻‍💻
+
+<div align="center">
+  <img src="src/2.png" alt="imagen">
+</div>
 
 ### I have experience working with the following programming languages: ✍️
 - TypeScript 
