@@ -6,12 +6,12 @@
 ## I have a bachelor of Science Degree in Digital Systems and Robotics from Tecnológico de Monterrey Campus Puebla 🤖. I am a Full Stack Web Developer MERN with over 2 years of experience 👨🏻‍💻
 
 <div align="center">
-  <img src="src/1.jpeg" alt="imagen">
+  <img src="src/1.jpeg" alt="imagen" width="400" height="200">
 </div>
 
 ### I have experience working with the following programming languages: ✍️
 <div align="center">
-  <img src="src/ts.png" width="100" height="50" alt="TypeScript">
+  <img src="src/ts.png" width="50" height="50" alt="TypeScript">
   <img src="src/python.png" width="50" height="50" alt="Python">
   <img src="src/c.png" width="50" height="50" alt="C-Language">
   <img src="src/swift-og.png" width="50" height="50" alt="Swift">
