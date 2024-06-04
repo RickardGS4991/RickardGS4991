@@ -20,16 +20,17 @@
 ### Strong Knowledge in: 📖
 - Git 
 - Circle CI (CI/CD)
-- Redux.js
-- Express.js and mongoose
 - API REST
 - Unit Test
+- Architecture & design patterns
+- SOLID principles
+- OPP
 
 ### My projects...
 - [Agronomist Robot](https://github.com/RickardGS4991/GA-ULV)
 - [Star Wars Game for iPhone](https://github.com/RickardGS4991/starwarsiOsGame)
 - [Recognizer built with Flex and Bison](https://github.com/RickardGS4991/finalRecognizer/tree/main)
-- [Tlapacoyan Principal Page](https://github.com/RickardGS4991/tlapa-web-page)
+- [Spotify clone](https://github.com/RickardGS4991/spotifyClone)
 
 
 <!--
