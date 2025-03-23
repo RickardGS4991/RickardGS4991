@@ -7,26 +7,22 @@
 💻 Experienced software engineer with over 3 years of experience.<br>
 🚀 Focused on delivering scalable and efficient web applications.<br>
 
-<div align="center">
-  <img src="src/1.jpeg" alt="imagen" width="400" height="200">
-</div>
+## 🛠️ Skills & Tools
 
-### I have experience working with the following programming languages: ✍️
-<div align="center">
-  <img src="src/ts.png" width="50" height="50" alt="TypeScript">
-  <img src="src/python.png" width="50" height="50" alt="Python">
-  <img src="src/c.png" width="50" height="50" alt="C-Language">
-  <img src="src/swift-og.png" width="50" height="50" alt="Swift">
-</div>
+### ⚙️ DevOps:
+- 🏯 Dojo DevOps methodology
+- 🖥️ Virtualization: Vagrant, Puppet, Ansible
+- 📦 Containerization: Docker
+- 🛡️ SecDevOps: Network interconnection, Cloudflare
+- ☁️ Cloud services:
+  - 🔹 AWS: IAM, EC2
+  - 🔸 GCP: Firebase, Cloud Functions
 
-### Strong Knowledge in: 📖
-- Git 
-- Circle CI (CI/CD)
-- API REST
-- Unit Test
-- Architecture & design patterns
-- SOLID principles
-- OPP
+### 💻 Software Development:
+- 🐍 Python | ☕ Java | 💙 TypeScript / JavaScript
+- ⚛️ React.js | 🟩 Node.js | 🌶️ Flask
+- 🧠 Data Structures, Design Patterns & Software Architecture
+- 🧪 Unit Testing: Jest, PyTest
 
 ### My projects...
 - [Backend Flask](https://github.com/RickardGS4991/backendFlask)
