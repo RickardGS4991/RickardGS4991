@@ -21,7 +21,7 @@
 
 ### 💻 Software Development:
 - 🐍 Python | ☕ Java | 💙 TypeScript / JavaScript
-- ⚛️ React.js | 🟩 Node.js | 🌶️ Flask
+- ⚛️ React.js | 🟩 Node.js | 🌶️ Flask | Next.js
 - 🧠 Data Structures, Design Patterns & Software Architecture
 - 🧪 Unit Testing: Jest, PyTest
 
