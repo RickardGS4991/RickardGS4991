@@ -2,10 +2,10 @@
   <h1 text-align="center">Hello there... 🙋‍♂️ My name is Ritchie</h1>
 </div>
 
-- 🤖 B.Sc. in Digital Systems and Robotics graduate from Tecnológico de Monterrey, Campus Puebla.
-- 🧑‍💻 M.Sc. in DevOps candidate at UNIR.
-- 💻 Experienced software engineer with over 3 years of experience
-- 🚀 Focused on delivering scalable and efficient web applications
+🤖 B.Sc. in Digital Systems and Robotics graduate from Tecnológico de Monterrey, Campus Puebla.<br>
+🧑‍💻 M.Sc. in DevOps candidate at UNIR.<br>
+💻 Experienced software engineer with over 3 years of experience.<br>
+🚀 Focused on delivering scalable and efficient web applications.<br>
 
 <div align="center">
   <img src="src/1.jpeg" alt="imagen" width="400" height="200">
